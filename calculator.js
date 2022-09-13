@@ -4,7 +4,7 @@ function sum(v1, v2) {}
 // retorna o valor da subtração entre os dois parâmetros
 function sub(v1, v2) {
     var total = v1 - v2;   
-    document.write("Valor total da Subtração: " + total);
+    document.write("Valor total da Subtração:" + total);
 }
 
 // retorna o valor da divisão entre os dois parâmetros
