@@ -13,4 +13,11 @@ function mult(v1, v2) {}
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
 function square(v1) {}
 
+// imprime no console se o número é par ou impar
+function ParOuImpar(v1) {
+    const result = v1 % 2
+    
+    result == 0 ? console.log('Par') : console.log('Impar')
+ }
+
 console.log(sum(v1, v2));
