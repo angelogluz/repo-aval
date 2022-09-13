@@ -19,7 +19,7 @@ function mult(a, b) {
 }
 console.log(mult(10, 5));
 console.log(mult(7, 6));
-console.log(mult(8, 3));
+
 
 
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
