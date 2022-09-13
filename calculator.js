@@ -13,4 +13,15 @@ function mult(v1, v2) {}
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
 function square(v1) {}
 
-console.log(sum(v1, v2));
+function sequencial(v1, v2) {
+    let result = v1
+
+    for (let i = 0; i < v2; i++) {
+       const mult = result * v1
+       result = mult
+    }
+
+    return result
+}
+
+console.log(sequencial(2, 4));
