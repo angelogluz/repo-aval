@@ -5,17 +5,13 @@ function sum(v1, v2) {
 
 // retorna o valor da subtração entre os dois parâmetros
 function sub(v1, v2) {
-  return v1 - v2
+    return v1 - v2
 }
 
 // retorna o valor da divisão entre os dois parâmetros
-<<<<<<< HEAD
 function div(v1, v2) {
     return v1 / v2
 }
-=======
-function div(v1, v2) { }
->>>>>>> 13c653e659fdd83f72b911d1d2c3cb17a35bf7bc
 
 // retorna o valor da multiplicação entre os dois parâmetros
 function mult(v1, v2) {
