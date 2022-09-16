@@ -18,5 +18,6 @@ $ node calculator.js
 ## 🤝 Contribuídores
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/deniann"><img src="https://github.com/deniann.png" width="45" height="45"></a> &nbsp;
 <a href = "https://github.com/PedroJardel"><img src="https://github.com/PedroJardel.png" width="45" height="45"></a>&nbsp;
 
