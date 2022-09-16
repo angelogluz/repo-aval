@@ -15,7 +15,10 @@ Não requerida.
 $ node calculator.js
 ```
 
-## 🤝 Contribuídores
+## 🤝 Contribuidores
 
-<a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
-
+<a href="https://github.com/vitormlps"><img src="https://github.com/vitormlps.png" width="45" height="45"></a> &nbsp;
+<a href="github.com/GabrielCosta-Abap"><img src="https://github.com/GabrielCosta-Abap.png" width="45" height="45"></a> &nbsp;
+<a href="github.com/SAULvaRGAS88"><img src="https://github.com/SAULvaRGAS88.png" width="45" height="45"></a> &nbsp;
+<a href="github.com/fantinels"><img src="https://github.com/fantinels.png" width="45" height="45"></a> &nbsp;
+<a href="github.com/Gabrielenfcunha"><img src="https://github.com/Gabrielenfcunha.png" width="45" height="45"></a> &nbsp;
