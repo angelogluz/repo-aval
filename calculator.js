@@ -1,5 +1,11 @@
 // retorna o valor da soma entre os dois parâmetros
-function sum(v1, v2) {}
+var v1 = 2;
+var v2 = 5;
+
+    function sum(v1, v2) {
+    
+    return(v1 + v2);
+}
 
 // retorna o valor da subtração entre os dois parâmetros
 function sub(v1, v2) {}
