@@ -10,14 +10,9 @@ function sub(v1, v2) {
 function div(v1, v2) { }
 
 // retorna o valor da multiplicação entre os dois parâmetros
-<<<<<<< HEAD
 function mult(v1, v2) {
     return (v1 * v2)
 }
-console.log(mult(7,7))
-=======
-function mult(v1, v2) { }
->>>>>>> 9bfa1ab4a8b3444af2ff571035ec711071ed5a16
 
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
 function square(v1) {
