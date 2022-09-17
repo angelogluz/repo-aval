@@ -48,7 +48,10 @@ function sub(){  //TODO: Implementar subtração
 }
 
 function mult(){  //TODO: Implementar Multiplicação
-
+    let a = Number(prompt("Primerio Número: ") );
+    let b = Number(prompt("Segundo Número: ") );
+    let res = a * b;
+    console.log(`Resultado: ${res}`);
 
 }
 
