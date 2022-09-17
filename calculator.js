@@ -36,7 +36,6 @@ function sum(){  //TODO: Implementar soma
     let b = Number(prompt("Segundo Número: ") );
     let res = a + b;
     console.log(`Resultado: ${res}`);
-
 }
 
 function sub(){  //TODO: Implementar subtração
@@ -44,7 +43,6 @@ function sub(){  //TODO: Implementar subtração
     let b = Number(prompt("Segundo Número: ") );
     let res = a - b;
     console.log(`Resultado: ${res}`);
-
 }
 
 function mult(){  //TODO: Implementar Multiplicação
@@ -52,10 +50,11 @@ function mult(){  //TODO: Implementar Multiplicação
     let b = Number(prompt("Segundo Número: ") );
     let res = a * b;
     console.log(`Resultado: ${res}`);
-
 }
 
 function div(){
-  
-
+    let a = Number(prompt("Primerio Número: ") );
+    let b = Number(prompt("Segundo Número: ") );
+    let res = a /= b;
+    console.log(`Resultado: ${res}`);
 }
