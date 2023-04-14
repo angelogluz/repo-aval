@@ -19,3 +19,5 @@ $ node calculator.js
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
+<a href="https://github.com/gustavomarques98"><img src="https://github.com/gustavomarques98.png" width="45" height="45"></a> &nbsp;
+
