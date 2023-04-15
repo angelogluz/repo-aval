@@ -23,4 +23,8 @@ function square(v1) {
     return Math.sqrt(v1);
 }
 
-console.log(sum(v1, v2));
+console.log(`1 + 2 = ${sum(1, 2)}`);
+console.log(`2 - 1 = ${sub(2, 1)}`);
+console.log(`4 / 2 = ${div(4, 2)}`);
+console.log(`2 * 2 = ${mult(4,2)}`);
+console.log(`Raíz quadrada 9: ${square(9)}`);
