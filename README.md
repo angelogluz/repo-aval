@@ -16,6 +16,8 @@ $ node calculator.js
 ```
 
 ## 🤝 Contribuídores
-
+- Filipe Tenedini Domingos
+- Nicholas Knop
+- Pietro Del Corona
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
