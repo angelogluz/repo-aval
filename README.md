@@ -17,6 +17,10 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
---> Brendon Borba
+--> Brendon Borba;
+--> Diego da Paz;
+--> Augusto Pedroso;
+--> Jessica Gasque;
+--> Guilherme Ribeiro.
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
