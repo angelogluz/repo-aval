@@ -16,6 +16,6 @@ $ node calculator.js
 ```
 
 ## 🤝 Contribuídores
-
+    Douglas, Otávio e Tales 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
