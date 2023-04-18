@@ -14,7 +14,9 @@ function div(v1, v2) {
 }
 
 // retorna o valor da multiplicação entre os dois parâmetros
-function mult(v1, v2) {}
+function mult(v1, v2) {
+    return v1 * v2
+}
 
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
 function square(v1) {}
@@ -22,3 +24,4 @@ function square(v1) {}
 console.log(`Soma: ${sum(1,1)}`);
 console.log(`Subtracao: ${sub(10,5)}`)
 console.log(`Divisao: ${div(6,2)}`)
+console.log(`Multiplicacao: ${mult(3,3)}`)
