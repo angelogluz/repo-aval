@@ -17,5 +17,11 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
+--> Otávio Mastrantonio
+--> Roberto lucas Diago
+--> Christian Neuschrank
+--> Filipe Barbosa
+--> Gabriel Poppy
+
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
