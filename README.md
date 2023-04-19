@@ -16,7 +16,7 @@ $ node calculator.js
 ```
 
 ## 🤝 Contribuídores
-
+<p> Guilherme Karam Lucas Martins - William Silveira - Suelen Lopes </p>
 <a href="https://github.com/Guilherme-klm" target="blank"><img align="center" src="https://github.com/Guilherme-klm.png" height="50" /></a>
 <a href="https://github.com/WilliamLopesSilveira" target="blank"><img align="center" src="https://github.com/WilliamLopesSilveira.png" height="50" /></a>
 <a href="https://github.com/suelensilveiraoliveira" target="blank"><img align="center" src="https://github.com/suelensilveiraoliveira.png" height="50" /></a>
