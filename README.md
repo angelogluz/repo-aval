@@ -17,5 +17,9 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
+- Pedro Tian Xi Fruck Liu  
+- Leonardo Alexandre da Rosa Fruck  
+- Gabriel Domingues Castellano
+
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
