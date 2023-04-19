@@ -16,6 +16,7 @@ $ node calculator.js
 ```
 
 ## 🤝 Contribuídores
-
-<a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
+- Leon Dode Junior
+- Gabriela França Cavalheiro
+- Pedro Henrique Menna Coitinho
 
