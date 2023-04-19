@@ -16,6 +16,10 @@ $ node calculator.js
 ```
 
 ## 🤝 Contribuídores
+Bruno Marques
+João Omar
+Igor Alves
+Rangel Cezaro
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
