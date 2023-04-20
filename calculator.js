@@ -31,3 +31,4 @@ console.log(sum(1, 2));
 console.log(sub(2,1));
 console.log(div(2, 2));
 console.log(mult(2, 2));
+console.log(square(25));
