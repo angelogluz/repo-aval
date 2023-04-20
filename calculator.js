@@ -22,3 +22,6 @@ function mult(v1, v2) {
 function square(v1) {}
 
 console.log(sum(v1, v2));
+console.log(sub(v1, v2));
+console.log(div(v1, v2));
+console.log(mult(v1, v2));
