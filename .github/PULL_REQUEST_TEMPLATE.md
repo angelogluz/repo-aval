@@ -8,6 +8,7 @@
 - Criação do método de subtração
 - Criação do método de divisão
 - Criação do método de multiplicação
+- Criação do método de raiz quadrada
 - Criação de mensagens de retorno na aplicação das funções
 
 
