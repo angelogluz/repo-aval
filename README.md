@@ -17,5 +17,5 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
-<a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/Marcelo20222022"><img src="https://github.com/Marcelo20222022" width="45" height="45"></a> &nbsp;
 

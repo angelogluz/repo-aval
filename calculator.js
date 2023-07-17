@@ -27,5 +27,5 @@ console.log(sum(8, 2));
 console.log(sub(10,3));
 console.log(div(15,3)); 
 console.log(mult(3,4)); 
-console.log(square(81)); 
+console.log (square(81)); 
 
