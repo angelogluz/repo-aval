@@ -7,10 +7,6 @@ function sub(v1, v2) {
     return v1 - v2;
 }
 
-// retorna o valor da divisão entre os dois parâmetros
-function div(v1, v2) {}
-
-
 // Retorna o valor da divisão entre os dois parâmetros
 function div(v1, v2) {
     if (v2 === 0) {
