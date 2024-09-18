@@ -17,5 +17,10 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
-<a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/Ltavio">Lucas Mendes</a> &nbsp;
+
+<a href="https://github.com/ViniciusEspindolaa">Vinicius Schmalfuss Espindola</a> &nbsp;
+
+<a href="https://github.com/Juliane-28">Juliane Lessa</a> &nbsp;
+
 
