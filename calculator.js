@@ -28,3 +28,6 @@ let v2 = 4;
 
 console.log(sum(v1, v2));    // Exemplo: 16 + 4 = 20
 console.log(square(v1));     // Exemplo: Raiz quadrada de 16 = 4
+console.log(sub(v1, v2)); 
+console.log(div(v1, v2)); 
+console.log(mult(v1, v2)); 
