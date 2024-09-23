@@ -1,65 +1,37 @@
 # Descrição
-Adicionar aqui uma descrição do que foi feito.
-
-Ex.:
-Adiciona módulo de mensagens com remetente, destinatário e vinculado a uma solicitação.
+Foi implementada as funcionalidades de soma, subtração, divisão, multiplicação e raiz quadrada.
+Utilizamos o prompt-sync para perguntar ao usuário os numeros que deseja calcular.
 
 ## Implementa
 Citar aqui o que foi implementado (Pode ser em forma de itens)
-
-Ex.:
-- Criação de mensagens
-- Listagem de mensagens por solicitação
-- Listagem de mensagens por usuários
-- Adição de subscription
-- Demais queries e mutations do nest-query
+-Soma
+-Subtração
+-Divisão
+-Multiplicação
+-Raiz quadrada
+-Prompt-Sync
 
 ## Ajusta
-Caso na implementação, além da proposta principal da entrega, tenha sido feito algum ajuste, citar aqui.
-
-Ex.:
-- Módulo de Users para listar mensagens
-- Módulo de Solicitations para listar mensagens
+Nenhum ajuste
 
 ## Corrige
-Caso alguma correção tenha sido feita, citar aqui.
-
-Ex.:
-- Nada relevante
+Nenhuma correção
 
 ## Fecha
 Enviar aqui o link da Issue que está sendo fechada.
 
-Ex.:
-Issue 7 - https://github.com/angelogluz/Atividade-versionamento/issues/7
 
 ## Tipo de mudança (marcar as alternativas que se encaixam)
-- [ ] Nova Funcionalidade
-- [ ] Correções de bugs
-- [ ] Ajuste
-
-Ex.:
 - [x] Nova Funcionalidade
 - [ ] Correções de bugs
 - [x] Ajuste
 
+
 # Como foi testado?
-Explicar aqui como foi testada a entrega.
 
-Ex.:
-Testes manuais no insomnia.
+Testes manuais no proprio terminal.
 
-### Exemplo:
-#### Criação de mensagem
-<img width="730" alt="image" src="https://user-images.githubusercontent.com/5839083/161609904-7cf45b9a-6758-4d9a-aae9-be9b187df8ae.png">
-
-
-#### Listagem de usuários com mensagens enviadas e recebidas
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/5839083/161609656-64ea2fad-0d1d-48e9-a080-f4f4b9a5e778.png">
-
-
-#### Listando mensagens de solicitações
-<img width="703" alt="image" src="https://user-images.githubusercontent.com/5839083/161610024-ee53738a-0809-4b9f-a784-49796ee6a23f.png">
+<img width="730" alt="image" src="https://cdn.discordapp.com/attachments/1286668613797023799/1287924598989525076/image.png?ex=66f350c0&is=66f1ff40&hm=826799b6d74a54a95036e95a6ce74fc18cb3c5fcd23391fdaab23d78fb126a8b&">
 
 
 
@@ -72,5 +44,3 @@ Checklist:
 - [x] Documentei de alguma forma o que foi feito para auxiliar próximos devs (em código, insomnia, documentos auxiliares)
 - [x] Minhas mudanças não geram nenhum motivo de alerta ou possível quebra de outras funcionalidades
 
-# Informações adicionais:
-Caso tenham algo a adicionar de informação, adicionar aqui.
