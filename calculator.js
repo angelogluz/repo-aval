@@ -1,3 +1,9 @@
+const prompt = require('prompt-sync')();
+
+// solicita ao usuário 2 números para o calculo
+const v1 = Number(prompt("Qual o número 1? "));
+const v2 = Number(prompt("Qual o número 2? "));
+
 // retorna o valor da soma entre os dois parâmetros
 function sum(v1, v2) {
     return v1 + v2;
@@ -25,9 +31,9 @@ function mult(v1, v2) {
 function square(v1) {
     return Math.sqrt(v1);
 }
-console.log(sum(v1, v2));
-console.log(sub(v1, v2));
-console.log(div(v1, v2));
-console.log(mult(v1, v2)); 
-console.log(square(v1));
+console.log('Soma:', sum(v1, v2));
+console.log('Subtração:', sub(v1, v2));
+console.log('Divisão:', div(v1, v2));
+console.log('Multiplicação:', mult(v1, v2));
+console.log('Raiz quadrada do primeiro número:', square(v1));
 
