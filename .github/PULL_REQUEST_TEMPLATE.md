@@ -28,11 +28,10 @@ Enviar aqui o link da Issue que está sendo fechada.
 
 
 # Como foi testado?
-Explicar aqui como foi testada a entrega.
 
 Testes manuais no proprio terminal.
 
-<img width="730" alt="image" src="![image](https://github.com/user-attachments/assets/5deb15d7-9aff-403b-afc0-38ea0677127a)">
+<img width="730" alt="image" src="https://cdn.discordapp.com/attachments/1286668613797023799/1287924598989525076/image.png?ex=66f350c0&is=66f1ff40&hm=826799b6d74a54a95036e95a6ce74fc18cb3c5fcd23391fdaab23d78fb126a8b&">
 
 
 
