@@ -3,6 +3,7 @@
 ## 🔐 Pré requisitos
 
 <a href="https://nodejs.dev/">Node</a> &nbsp;
+<a href="https://www.npmjs.com/package/prompt-sync">Prompt-Sync</a> &nbsp;
 
 ## Instalação do Projeto
 
