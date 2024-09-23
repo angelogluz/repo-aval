@@ -22,6 +22,6 @@ $ node calculator.js
 <a herf="https://github.com/JoaoAANgr"><img src="https://github.com/JoaoAANgr.png" width="45" height="45"></a> &nbsp;
 <a herf="https://github.com/Juanjapa27"><img src="https://github.com/Juanjapa27.png" width="45" height="45"></a> &nbsp;
 <a herf="https://github.com/brrunasroocha"><img src="https://github.com/brrunasroocha.png" width="45" height="45"></a> &nbsp;
-<a herf="https://github.com/fabianalisboa"><img src="https://github.com/fabianalisboa,png" width="45" height="45"></a> &nbsp;
+<a herf="https://github.com/fabianalisboa"><img src="https://github.com/fabianalisboa.png" width="45" height="45"></a> &nbsp;
 
 # avaliacao-ES
