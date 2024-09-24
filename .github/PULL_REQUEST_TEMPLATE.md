@@ -11,16 +11,7 @@ mult: multiplicação
 square: raiz quadrada
 
 ## Corrige
-Caso alguma correção tenha sido feita, citar aqui.
-
-Ex.:
-- Nada relevante
-
-## Fecha
-Enviar aqui o link da Issue que está sendo fechada.
-
-Ex.:
-Issue 7 - https://github.com/angelogluz/Atividade-versionamento/issues/7
+Foi necessária uma correção no código, pois a primeira versão do README não exibia as fotos dos integrantes.
 
 ## Tipo de mudança (marcar as alternativas que se encaixam)
 - [x] Nova Funcionalidade
