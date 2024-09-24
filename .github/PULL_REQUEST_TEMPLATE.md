@@ -1,18 +1,14 @@
 # Descrição
-Adicionar aqui uma descrição do que foi feito.
-
-Ex.:
-Adiciona módulo de mensagens com remetente, destinatário e vinculado a uma solicitação.
+Foi executado comandos GIT para fazer alterações e criado funções matemáticas!
 
 ## Implementa
-Citar aqui o que foi implementado (Pode ser em forma de itens)
+Foi implementado:
 
-Ex.:
-- Criação de mensagens
-- Listagem de mensagens por solicitação
-- Listagem de mensagens por usuários
-- Adição de subscription
-- Demais queries e mutations do nest-query
+- Função soma;
+- Função subtração;
+- Função divisão;
+- Função multiplicação; e 
+- Função raiz
 
 ## Ajusta
 Caso na implementação, além da proposta principal da entrega, tenha sido feito algum ajuste, citar aqui.
