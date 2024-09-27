@@ -35,3 +35,6 @@ console.log(sub(20, 7));   // Retorna 13
 console.log(div(30, 6));   // Retorna 5 (implementação necessária)
 console.log(mult(4, 8));   // Retorna 32 (implementação necessária)
 console.log(square(16));   // Retorna 4 (implementação necessária)
+
+Integrantes:
+Gabriel Costa, Christian, Vitor, Yago
